@@ -14,4 +14,4 @@ Machine Learning exam solutions for MSc Computational Health Informatics (2025).
 
 ---
 
-Feel free to explore the code and results.  
+Feel free to explore the code and results (see master branch for folders).  
